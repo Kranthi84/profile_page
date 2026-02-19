@@ -1,5 +1,6 @@
 import React from 'react';
 import profilePic from './assets/profile_pic.jpeg';
+import resumePdf from './assets/Resume.pdf';
 import { HOME_PAGE_STRINGS } from './constants/strings';
 import { FaAndroid } from 'react-icons/fa';
 
@@ -13,6 +14,9 @@ const HomePage: React.FC = () => {
                         <img src={profilePic} className="rounded" alt="Profile" style={{ width: '300px', height: 'auto' }} />
                         <div className="mt-2">
                             <FaAndroid className="me-2" /><a href="https://bcert.me/bc/html/profile.jsp?k=jjhrguh" target="_blank" rel="noopener noreferrer">Link to Android Certification</a>
+                        </div>
+                        <div className="mt-3">
+                            <a href={resumePdf} download className="btn btn-primary">Download Resume</a>
                         </div>
                     </div>
                     <div className="position-absolute top-0 mt-5 pt-5 col text-start" style={{ left: '400px' }}>
@@ -50,6 +54,9 @@ const HomePage: React.FC = () => {
                     <img src={profilePic} className="rounded img-fluid" alt="Profile" style={{ maxWidth: '250px' }} />
                     <div className="mt-2">
                         <FaAndroid className="me-2" /><a href="https://bcert.me/bc/html/profile.jsp?k=jjhrguh" target="_blank" rel="noopener noreferrer">Link to Android Certification</a>
+                    </div>
+                    <div className="mt-3">
+                        <a href={resumePdf} download className="btn btn-primary">Download Resume</a>
                     </div>
                 </div>
                 <div className="text-start px-3">
