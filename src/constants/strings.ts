@@ -1,16 +1,17 @@
 export const HOME_PAGE_STRINGS = {
   header: "Kranthi K Chinnakotla",
   microsoft: {
-    jobTitle: "Software Engineer  | Microsoft:",
+    jobTitle: "Software Engineer  | Microsoft: [June 2020 - ]",
     skills: [
-      "Designed and implemented scalable data pipelines and a data platform supporting digital and email marketing teams, enabling customer-focused analytics and insights.",
-      "Developed and maintained features for Outlook on Android, including running A/B experiments, generating scorecards, and analyzing metrics to identify performance and user engagement trends.",
-      "Built a Calendar Companion Windows application from scratch, using React for the frontend and C++ for the hosting application, delivering a performant and integrated user experience.",
-      "Contributed to feature development for Microsoft’s first‑party AI agent, “Researcher,” focusing on product capabilities and user-centric AI experiences.",
+      '[October 2025 - ]  Contributed to feature development for Microsoft\'s first‑party AI agent, "Researcher," focusing on product capabilities and user-centric AI experiences.',
+      "[October 2025 - ] Experience gained on multi-agent architecture and MCP client and server architecture, while working on 'Researcher Deep reasoning' agent.",
+      "[May 2024– Sep 2025] Built a Calendar Companion Windows application from scratch, using React for the frontend and C++ for the hosting application, delivering a performant and integrated user experience.",
+      "[June 2020– May 2022] Designed and implemented scalable data pipelines and a data platform supporting digital and email marketing teams, enabling customer-focused analytics and insights.",
+      "[May 2022– May 2024] Developed and maintained features for Outlook on Android, including running A/B experiments, generating scorecards, and analyzing metrics to identify performance and user engagement trends.",
     ],
   },
   hughes: {
-    jobTitle: "Software Engineer | Hughes:",
+    jobTitle: "Software Engineer | Hughes: [April 2017 - May 2020]",
     skills: [
       "Developed a consumer-facing Android application for managing internet service plans and handling payments.",
       "Contributed to an Android app used by field installers to align dish antennas with satellite positioning.",
@@ -19,14 +20,14 @@ export const HOME_PAGE_STRINGS = {
     ],
   },
   accenture: {
-    jobTitle: "Team Lead | Accenture:",
+    jobTitle: "Team Lead | Accenture: [August 2014]",
     skills: [
       "Worked as a contractor for Bank of America, developing backend systems for checking and savings accounts.",
       "Implemented critical banking features such as overdraft processing, non-sufficient funds (NSF) fees, and overdraft protection fees, ensuring regulatory compliance and revenue generation.",
     ],
   },
   uncc: {
-    jobTitle: "Teaching Assistant | UNC Charlotte:",
+    jobTitle: "Teaching Assistant | UNC Charlotte: [ Dec 2015 - Dec 2016]",
     skills: [
       "Teaching assistant for an Android development course.",
       "Answered Android-related technical questions and supported students during class.",
