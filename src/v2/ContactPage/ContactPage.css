@@ -1,0 +1,8 @@
+.glass-card {
+  background: rgba(15, 25, 48, 0.6);
+  backdrop-filter: blur(40px);
+}
+
+.glow-shadow:hover {
+  box-shadow: 0 0 30px rgba(161, 250, 255, 0.15);
+}
