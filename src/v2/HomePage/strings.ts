@@ -3,8 +3,8 @@ export const strings = {
 
   nav: {
     intro: "Intro",
-    work: "Work",
-    tech: "Tech",
+    work: "Projects",
+    tech: "Experience",
     reach: "Reach",
   },
 
@@ -17,7 +17,7 @@ export const strings = {
       "Senior Software Professional with an MS in Computer Science and a career defined by technical leadership and architectural excellence. From architecting consumer applications for diverse international markets to designing robust data pipelines in Azure, I focus on building reliable, performance-oriented systems. I bring a unique blend of backend batch processing experience and modern frontend expertise to deliver end-to-end solutions that scale.",
     descriptionScalability: "scalability",
     descriptionPrecision: "precision",
-    ctaButton: "Explore Work",
+    ctaButton: "Explore Projects",
     imageAlt: "Software Developer Workspace",
     imageDataAlt:
       "Close-up of a high-tech software engineering workstation with multiple glowing monitors displaying lines of code in a dark room with neon cyan ambient lighting",

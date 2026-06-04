@@ -3,8 +3,8 @@ export const strings = {
 
   nav: {
     intro: "Intro",
-    work: "Work",
-    tech: "Tech",
+    work: "Projects",
+    tech: "Experience",
     reach: "Reach",
   },
 
